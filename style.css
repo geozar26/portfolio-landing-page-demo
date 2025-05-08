@@ -34,7 +34,11 @@ header{
    transition: all ease .45s;
 }
 
-
+.logo{
+  color:var(--text-color);
+  font-size:41px;
+  font-weight:600;
+  
 .navbar{
     display:flex;
     align-items: center;
