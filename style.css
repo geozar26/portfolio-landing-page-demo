@@ -15,6 +15,7 @@
     --p-font: 1.1rem;
 }
 
+
 body{
     background:var(--bg-color);
     color: var(--text-color);
@@ -38,6 +39,10 @@ header{
   color:var(--text-color);
   font-size:41px;
   font-weight:600;
+  
+  .logo span{
+      color:var(--main-color);
+  }
   
 .navbar{
     display:flex;
