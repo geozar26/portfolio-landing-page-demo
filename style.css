@@ -267,6 +267,20 @@ section {
 }
 }
 
+button{
+    display:inline-block;
+    background-color:goldenrod;
+    color:white;
+    font-size:17px;
+    font-weight:500;
+    padding:6px 15px;
+    border-radius:3px;
+    
+    padding:5px 14px;
+    border-radius:8px;
+}
+  
+
 @media(max-width:850px){
       .navbar{
          position:absolute;
@@ -283,4 +297,5 @@ section {
          transition: all 0.4s ease-in-out;
       }
 }
+
 
