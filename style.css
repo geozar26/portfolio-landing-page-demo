@@ -149,7 +149,7 @@ section{
 
 .two{
     background: #141414;
-    border-radius: 2px solid #141414;
+    border-radius: 2px solid goldenrod;
     color:var(--text-color);
     margin-left:25px;
 }
@@ -297,5 +297,6 @@ button{
          transition: all 0.4s ease-in-out;
       }
 }
+
 
 
